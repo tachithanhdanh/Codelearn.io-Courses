@@ -47,6 +47,13 @@
         "typeinfo": "cpp",
         "ciso646": "cpp",
         "unordered_set": "cpp",
-        "bitset": "cpp"
+        "bitset": "cpp",
+        "barrier": "cpp",
+        "chrono": "cpp",
+        "latch": "cpp",
+        "semaphore": "cpp",
+        "valarray": "cpp",
+        "complex": "cpp",
+        "stacktrace": "cpp"
     }
 }
