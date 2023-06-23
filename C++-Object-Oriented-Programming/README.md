@@ -4,7 +4,7 @@ Course name: Object Oriented-Programming in C++.\
 Course start date: Not started.\
 Course completion date: Not completed yet.\
 Course link: https://codelearn.io/learning/object-oriented-programming-in-cpp \
-Certificate: None.
+Certificate: https://codelearn.io/certification/m2jhzdcy
 
 # Description
 
@@ -14,4 +14,4 @@ I think this is my last course (besides Accelerated Computer Science Fundamental
 
 # Certificate
 
-I haven't started this course yet but the certificate will be here soon.
+![Object Oriented Programming in C++](../assets/C++-Object-Oriented-Programming.png "Object Oriented Programming in C++")
